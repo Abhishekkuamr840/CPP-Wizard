@@ -1,0 +1,23 @@
+[
+  {
+    "symbol": "MSFT",
+    "buysellindicator": "B",
+    "quantity": 100,
+    "price": 250,
+    "packetSequence": 1
+  },
+  {
+    "symbol": "AAPL",
+    "buysellindicator": "S",
+    "quantity": 50,
+    "price": 175,
+    "packetSequence": 2
+  },
+  {
+    "symbol": "GOOG",
+    "buysellindicator": "B",
+    "quantity": 75,
+    "price": 2800,
+    "packetSequence": 3
+  }
+] 
